@@ -121,10 +121,7 @@ Sales-Dashboard/
 ---
 
 ## Dashboard Preview
-
-
-
----
+https://github.com/AbhayBehaniya/Sales_Dashboard/blob/main/Sales_Dashboard.png
 
 ## Outcome
 
